@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../BaiduNetdiskDownload/aotu_interface_3/.idea/aotu_interface_3.iml" filepath="$PROJECT_DIR$/../../../BaiduNetdiskDownload/aotu_interface_3/.idea/aotu_interface_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djangoDemo2/.idea/djangoDemo2.iml" filepath="$PROJECT_DIR$/../../djangoDemo2/.idea/djangoDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyProj/.idea/pyProj.iml" filepath="$PROJECT_DIR$/../../pyProj/.idea/pyProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../rmqa_tice/.idea/rmqa_tice.iml" filepath="$PROJECT_DIR$/../../rmqa_tice/.idea/rmqa_tice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sundyblog.iml" filepath="$PROJECT_DIR$/.idea/sundyblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/yuntiyu01.iml" filepath="$PROJECT_DIR$/../.idea/yuntiyu01.iml" />
+    </modules>
+  </component>
+</project>
